@@ -178,5 +178,3 @@ def verifier(action: str):
         return wrapper
 
     return inner_decorator
-
-print("holla")
